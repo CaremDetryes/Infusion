@@ -1,0 +1,29 @@
+filters:
+  and:
+    - file.folder.startsWith("MonSystème/Caractéristiques/Compétence")
+    - file.name != "All"
+    - file.name != "Compétences.base"
+views:
+  - type: table
+    name: Tableau
+    groupBy:
+      property: file.folder
+      direction: ASC
+    order:
+      - file.name
+      - file.tags
+      - file.ctime
+    sort:
+      - property: file.ctime
+        direction: ASC
+    markers: number
+    indentProperties: true
+    cardSize: 200
+  - type: table
+    name: LastUpdate
+    order:
+      - file.name
+      - file.ctime
+    sort:
+      - property: file.mtime
+        direction: ASC

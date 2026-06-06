@@ -1,0 +1,3 @@
+- **Domaine de compétence** : #Entrainement
+
+Pour ceux qui n'y sont pas habitués, l'armure est lourde, chaude et inconfortable. Les personnages sans entraînement au port de l'armure qui portent une armure légère subissent une pénalité de +1 Challenge à tous les tests. Pénalité de +2 Challenge pour le port d'une armure intermédiaire ou lourde sans entraînement. L'entraînement au port de l'armure annule complètement ces pénalités. Les pénalités de poids pour maladresse s'appliquent toujours. 

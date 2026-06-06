@@ -1,4 +1,4 @@
-Les connaissances représentent le savoir théorique, culturel ou académique d'un personnage. Contrairement aux compétences, elles ne permettent pas directement d'accomplir une action. Elles apportent un avantage lorsqu'un personnage agit dans un domaine qu'il maîtrise 
+Les connaissances représentent le savoir théorique, culturel ou académique d'un personnage. Contrairement aux compétences, elles ne permettent pas directement d'accomplir une action. Elles apportent un bonus lorsqu'un personnage agit dans un domaine qu'il maîtrise 
 intellectuellement.
 
 Lorsqu'un jet est effectué dans une situation liée à une connaissance pertinente, le personnage peut ajouter sa valeur de connaissance aux résultats de ses dés. Chaque point de connaissance peut augmenter la valeur d'un des dés du jet. Cette amélioration peut transformer des échecs en succès.

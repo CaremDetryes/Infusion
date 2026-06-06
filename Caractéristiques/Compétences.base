@@ -1,6 +1,6 @@
 filters:
   and:
-    - file.folder.startsWith("MonSystème/Caractéristiques/Compétence")
+    - file.folder.startsWith("Latos - Infusion/Infusion/Caractéristiques/Compétence")
     - file.name != "All"
     - file.name != "Compétences.base"
 views:

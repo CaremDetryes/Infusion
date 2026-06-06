@@ -29,7 +29,3 @@ Vous ne devez plus lancer de jet de précision à la place vous lancez juste vot
 - Sur le score maximal du dé vous effectuez un coup critique et vous relancez votre dé de dégât (ceci peut ce produire à l'infini).  
 Dans le cas où vous devez lancer plusieurs dés de dégâts choisissez en arbitrairement 1 dé qui déterminera si vous touchez ou non et si vous faites un coup critique, relancez uniquement ce dé. Exemple : j'attaque avec mon épée longue -> je fais 8 sur mon dé 8, critique, super, je relance -> encore 8, je relance -> 1. J’additionne donc 8+8+1+mon modificateur de force (ici +2) = 20 de dégâts dans la gueule du gobelin. 
 Pour les sorts même chose. Les sort qui demandent un jet de sauvegarde ignorent l'armure des monstres, ne manquent pas s'ils font 1 et ne peuvent infliger de critique. 
-# La mort 
-Quand vous tombez à 0 points de vie vous n'êtes pas inconscient à la place vous gagnez un niveau de fatigue. Vous ne possédez également qu'un point d'action par tour et ne pouvez maintenir votre concentration. Si vous attaquez ou lancez un sort faites un jet de sauvegarde de force DD 12 sous peine de subir un niveau de fatigue. Subir des dégâts vous confère 2 niveaux de fatigue Subir un coup critique vous confère 3 niveaux de fatigue Avoir plus de la moitié de vos points de vie dans le négatif vous tue. 
-# La fatigue 
-Chaque niveau de fatigue confère -1 à tous jet sur un dé 20 en dehors du combat (vive l'adrénaline). Lorsqu'un personnage est au niveau 6 de fatigue il meurt. Vous pouvez enlever 1 niveau de fatigue à chaque repos long.

@@ -1,9 +1,4 @@
 #EnCours 
-# Pour les blessure on veux quoi ?
-
-On veut de la fatigue stackable, des blessures violentes (mais pas trop).
-
-Point de vie ou tier de blessure (comme Burning Wheel)
 # Armure et le Perce armure
 Lorsque vous subissez une attaque quel qu'elle soit, vous devez faire un jet d'armure. 
 Pour connaitre le **Nombre de dé**, vous ajoutez les dés de la partie d'armure touché, les dés de résistance aux type de dégâts et les dés de parade éventuelle.

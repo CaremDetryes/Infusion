@@ -5,7 +5,7 @@ Lorsqu'un jet est effectué dans une situation liée à une connaissance pertine
 > [!tip] Exemple
 Aldric cherche à identifier la famille noble cachée derrière un blason ancien. Le MJ demande alors un jet d'Intelligence. 
 >
-Aldric à 4 dés avec un seuil de réussite de 4+. Aldric possède la connaissance **Noblesse 3**.
+Aldric à 4 dés avec une facilité de 4+. Aldric possède la connaissance **Noblesse 3**.
 >
 Résultat initial du jet : 2 / 4 / 6 / 3
 Deux dés atteignent ou dépassent le seuil de 4, ce qui donne **2 succès**.

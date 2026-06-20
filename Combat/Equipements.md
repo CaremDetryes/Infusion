@@ -1,116 +1,80 @@
-#EnCours 
 # Les armures
-## Armures légères 
+Les armures constituent la principale protection contre les blessures. Lorsqu'un personnage subit une attaque, les dés fournis par son armure sont ajoutés à son jet de défense, lui permettant de réduire ou d'annuler les dégâts reçus.
 
-| Nom         | Nombre de dé | Prérequis en Force | Jets de Vivacité |
-| ----------- | ------------ | ------------------ | ---------------- |
-| Matelassée  | 1            | -                  | -                |
-| Cuir clouté | 2            | -                  | -                |
-## Armures intermédiaires
+Les armures sont réparties en trois catégories : **légères**, **intermédiaires** et **lourdes**. Plus une armure offre de protection, plus elle est encombrante et exige de force pour être portée efficacement. Un personnage ne remplissant pas le prérequis de Force d'une armure ne peut pas se mouvoir avec.
 
-| Nom                | Nombre de dé | Prérequis en Force | Jets de Vivacité |
-| ------------------ | ------------ | ------------------ | ---------------- |
-| Chemise de mailles | 3            | For 2+             | -                |
-| Écailles           | 4            | For 3+             | désavantage      |
-## Armures lourdes
+Certaines armures entravent les mouvements rapides et les réflexes. Une armure indiquant **Désavantage aux jets de Vivacité** impose un désavantage à tous les jets visant à réagir rapidement à un danger physique, notamment esquiver une attaque, éviter un piège ou un projectile ou se dégager rapidement d'une zone dangereuse.
 
-| Nom              | Nombre de dé | Prérequis en Force | Jets de Vivacité |
-| ---------------- | ------------ | ------------------ | ---------------- |
-| Cotte de mailles | 5            | For 4+             | désavantage      |
-| Harnois          | 6            | For 4+             | désavantage      |
-## Bouclier
-
-| Nom      | Nombre de dé   | Prérequis en Force | Jets de Vivacité |
-| -------- | -------------- | ------------------ | ---------------- |
-| Bouclier | 2              | -                  | -                |
-| Pavois   | 2  + Demi-abri | For 3+             | désavantage      |
+| Nom                | Nombre de dé   | Prérequis en Force | Jets de Vivacité | Type           |
+| ------------------ | -------------- | ------------------ | ---------------- | -------------- |
+| Matelassée         | 1              | -                  | -                | Légères        |
+| Cuir clouté        | 2              | -                  | -                | Légères        |
+| Chemise de mailles | 3              | For 2+             | -                | Intermédiaires |
+| Écailles           | 4              | For 3+             | désavantage      | Intermédiaires |
+| Cotte de mailles   | 5              | For 4+             | désavantage      | Lourdes        |
+| Harnois            | 6              | For 4+             | désavantage      | Lourdes        |
+| Bouclier           | 2              | -                  | -                | Bouclier       |
+| Pavois             | 2  + Demi-abri | For 3+             | désavantage      | Bouclier       |
+Les boucliers ajoutent leurs dés aux jets de défense lors de d'une parade tant qu'ils sont équipés et utilisables. Le **pavois** offre en outre un **demi-abri** lorsqu'il est utilisé pour se protéger derrière lui. Le fonctionnement précis des abris est détaillé dans les règles de [[Latos - Infusion/Infusion/Combat/Combat|Combat]].
 # Les armes
+Les armes permettent d'infliger des dégâts à vos adversaires et possèdent parfois des propriétés particulières qui modifient leur utilisation. Ces propriétés représentent les avantages, contraintes ou techniques propres à chaque arme.
 ## Propriétés
-- **Finesse.**
-	Ces armes sont dans la subtilité, certaines capacité peuvent nécessiter d'avoir une arme avec la propriété Finesse.
-- **Maniement à deux mains.**
-	Ces armes nécessite deux mains pour être manier.
-- **Double attaque.**
-	Lorsque vous faites une double attaque avec deux armes, vous faites en réalité qu'un seul jet d'attaque avec 1dé de moins mais vous ajoutez les dégâts des deux armes.
-- **Unique.**
-	Pour effectuer une attaque avec cette arme, aucune attaque avec une arme ne doit avoir été effectué ce tour ci et vous ne pourrez plus effectuer d’attaque avec une arme après celle-ci.
-- **Polyvalent.**
-	L'arme peut être maniée à une main ou à deux mains. Si l'arme est maniée à deux mains les dégâts sont augmenté de 1.
-- **Lancer (X).**
-	L’arme de corps à corps peut s’utiliser à distance avec une portée de X mètres. L’arme est lancée et doit donc être récupérée avant d’être réutiliser.
-- **Allonge (X).**
-	Augmente la porter d'attaque au corps à corps de X mètres.
-- **Critique.**
-	Augmente la plage de réussite critique de 1.
+
+| Nom                    | Description                                                                                                                                                                                                                                                                                                      |
+| ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Finesse                | Certaines capacités ou effets nécessitent l'utilisation d'une arme possédant la propriété **Finesse**.                                                                                                                                                                                                           |
+| Maniement à deux mains | Une arme possédant cette propriété nécessite l'usage des deux mains pour être utilisée efficacement. Un personnage tenant un bouclier ou un autre objet dans l'une de ses mains ne peut pas manier une telle arme.                                                                                               |
+| Double attaque         | Lorsque vous combattez avec deux armes possédant cette propriété, vous pouvez effectuer une **double attaque**. Au lieu d'effectuer deux jets distincts, réalisez un unique jet d'attaque avec **1 dé de moins**. En cas de réussite, additionnez les dégâts des deux armes pour déterminer les dégâts infligés. |
+| Polyvalent             | Une arme polyvalente peut être utilisée à une ou deux mains. Lorsqu'elle est maniée à deux mains, ses dégâts sont augmentés de **1**.                                                                                                                                                                            |
+| Lancer (X)             | Une arme dotée de cette propriété peut être lancée sur une cible située à une distance maximale de **X mètres**. Après l'attaque, l'arme se retrouve à l'emplacement de la cible ou à proximité et doit être récupérée avant de pouvoir être utilisée à nouveau.                                                 |
+| Allonge (X)            | Cette arme permet de frapper un adversaire situé jusqu'à **X mètres** plus loin qu'une arme de corps à corps ordinaire.                                                                                                                                                                                          |
+| Perce armure (X)       | Lors du jet de défense de la cible, celle-ci réduit son nombre de succès d'un montant égal à la valeur de **Perce armure**.                                                                                                                                                                                      |
+| Rechargement           | Après chaque tir, l'arme doit être rechargée avant de pouvoir être utilisée à nouveau. Recharger une arme nécessite généralement **une action**.                                                                                                                                                                 |
 ## Arme de corps à corps
 #### Poids des armes
-Chaque arme de corps à corps a un poids, celui-ci détermine ne nombre de succès supplémentaire nécessaire pour amplifié le résultat de l'attaque.
+Chaque arme de corps à corps a un poids, celui-ci détermine le nombre de succès supplémentaire nécessaire pour amplifié le résultat de l'attaque.
 - **Légère.** L'arme nécessite qu'un seul succès pour amplifier l'attaque.
 - **Moyenne.** L'arme nécessite deux succès pour amplifier l'attaque.
 - **Lourde.** L'arme nécessite trois succès pour amplifier l'attaque.
 #### Amplification
 Tous les succès au dessus du Challenge de l'attaque, peuvent servir à l'amplification du résultat de l'attaque. Pour chaque tranches X succès, où X est le nombre de succès désigné par le poids de votre armes, vous pouvez ajoutez un nouvel effet à votre attaque. L'amplification de base est l'augmentation des dégâts du SAB : Superficielle -> Appuyée -> Brutale. D'autre amplification peuvent être donnée par vos arts martiaux.
 
-> [!info] Exemple
-> Un personnage effectue une attaque avec 5 dés, une facilité de 4+ et un challenge de 1. Il a une arme Moyenne, et fait 3 succès. Le premier succès fait réussir l'attaque, et il décide d'utilisé les deux autres succès pour amplifier les dégâts de son attaque. Il inflige donc une frappe Appuyée.
+> [!tip] Exemple
+> Aldric effectue une attaque avec 5 dés, une facilité de 4+ et un challenge de 1. Il a une arme Moyenne, et fait 3 succès. Le premier succès fait réussir l'attaque, et il décide d'utilisé les deux autres succès pour amplifier les dégâts de son attaque. Il inflige donc une frappe Appuyée.
 > 
-> Un autre personnage effectue une attaque avec 4 dés, une facilité de 5+ et un challenge de 1. Il a une arme Lourde, et fait seulement 2 succès, le premier succès lui permet de réussir l'attaque, mais il n'a pas suffisamment de succès pour améliorer sont attaque (il lui manque deux succès). Il inflige donc une frappe Superficielle.
-### Arme commune
+> Aldric effectue une autre attaque avec 4 dés, une facilité de 5+ et un challenge de 1. Il a une arme Lourde, et fait seulement 2 succès, le premier succès lui permet de réussir l'attaque, mais il n'a pas suffisamment de succès pour améliorer sont attaque (il lui manque deux succès). Il inflige donc une frappe Superficielle.
+### Armes communes
 
-| Nom         | Poids       | Dégâts | Effet spécial                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Propriétés                                                           |
-| ----------- | ----------- | ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| Dague       | **Légère**  | 3      | Effet 0 : -<br>Effet 1 : Vous gagnez +1 à la touche. Vous gagnez +1 Pm.<br>Effet 2 : -                                                                                                                                                                                                                                                                                                                                                                                                                                                 | **Finesse**, **Lancer (9)**, **Double attaque**                      |
-| Rapière     | **Moyenne** | 4      | Effet 0 : Si vous ne portez rien dans votre deuxième main vous avez +1 Bvi.<br>Effet 1 : Sur un nombre pair sur le dé de touche, vous touchez automatiquement. Sur un nombre impair sur le dé de touche, vous ratez automatiquement.<br>Effet 2 : Lorsque vous avez fait un nombre pair vous pouvez décider de relancer votre dé de touche pour pouvoir doubler vos dégâts sur l’attaque sur un pair. Cependant sur un impair vous rater l'entièreté de l’attaque. Tant que vous obtenez pair vous pouvez relancer votre dé de touche. | **Finesse**                                                          |
-| Epée courte | **Moyenne** | 4      | Effet 0 : -<br>Effet 1 : Vous gagnez +1 à la touche.<br>Effet 2 : Vous infligez 2 dégâts supplémentaires. Si vous portez une dague ou une arbalète légère dans votre deuxième main vous avez un dé supplémentaire pour parer.                                                                                                                                                                                                                                                                                                          | **Finesse**                                                          |
-| Faux        | **Lourde**  | 4      | Effet 0 : -<br>Effet 1 : Vous gagnez +2 à la touche.<br>Effet 2 : Vous appliquez l’effet de **Lourde** aux dégâts des effets.                                                                                                                                                                                                                                                                                                                                                                                                          | **Finesse**, **Unique**, **Maniement à deux mains**, **Allonge (1)** |
-| Matraque    | **Moyenne** | 3      | Effet 0: Vous gagnez +2 à la touche.<br>Effet 1: Si vous faites un critique, la cible est Assommée. <br>Effet 2: Vous infligez +2 dégâts.                                                                                                                                                                                                                                                                                                                                                                                              | **Critique**                                                         |
-| Cimeterre   | **Moyenne** | 4      | Effet 0 : -<br>Effet 1 : Si vous êtes sur une monture vous gagnez +2 à la touche et +1 dégâts.<br>Effet 2 : Si vous êtes sur une monture et obtenez un “20” vous décapitez votre cible.                                                                                                                                                                                                                                                                                                                                                |                                                                      |
-| Bâton       | **Moyenne** | 4      | Effet 0 : -<br>Effet 1 :  Vous infligez +1 dégâts supplémentaires si vous avez 2 ou plus en force.<br>Effet 2 : Vous infligez +2 dégâts supplémentaires si vous avez 3 ou plus en force.                                                                                                                                                                                                                                                                                                                                               | **Polyvalent**                                                       |
-| Pique       | **Moyenne** | 5      | Effet 0 : -<br>Effet 1 : Vous avez +1 à la touche.<br>Effet 2 : Vous avez un avantage contre les cibles montées.                                                                                                                                                                                                                                                                                                                                                                                                                       | **Maniement à deux mains**, **Allonge (1)**, **Lancer (9)**          |
-### Arme martial
+| Nom         | Poids       | Dégâts | Propriétés                                                  | Type de dégâts        |
+| ----------- | ----------- | ------ | ----------------------------------------------------------- | --------------------- |
+| Dague       | **Légère**  | 1      | **Finesse**, **Lancer (9)**, **Double attaque**             | Perforant             |
+| Bâton       | **Moyenne** | 2      | **Polyvalent**                                              | Contondant            |
+| Epée courte | **Moyenne** | 2      | **Finesse**                                                 | Perforant / Tranchant |
+| Pique       | **Moyenne** | 3      | **Maniement à deux mains**, **Allonge (1)**, **Lancer (9)** | Perforant             |
+| Faux        | **Lourde**  | 5      | **Finesse**, **Maniement à deux mains**, **Allonge (1)**    | Tranchant             |
+### Armes martials
 
-| Arme              | Poids       | Dégâts | Effet spécial                                                                                                                                                                                                                                                                                                                                             | Propriétés                                                |
-| ----------------- | ----------- | ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
-| Chaîne            | **Moyenne** | 3      | Effet 0 : Vous avez un malus à la touche de -4.<br>Effet 1 : Vous n’êtes plus affecté par le malus à la touche et vous gagnez +2 à la touche.<br>Effet 2 : Vous infligez +2 dégâts supplémentaires si vous avez 3 ou plus en force.                                                                                                                       | **Maniement à deux mains**, **Allonge (1)**               |
-| Hache de lancer   | **Légère**  | 4      | Effet 0 : -<br>Effet 1 : Vous avez un bonus de +1 à la touche.<br>Effet 2 : -                                                                                                                                                                                                                                                                             | **Lancer (9)**, **Double attaque**                        |
-| Katana            | **Moyenne** | 4      | Effet 0 : - <br>Effet 1 : -<br>Effet 2: Si vous faites une réussite critique, vous infligez 6 dégâts supplémentaires.                                                                                                                                                                                                                                     | **Polyvalent**, **Critique**                              |
-| Naginata          | **Moyenne** | 4      | Effet 0 : -<br>Effet 1 : Vous gagnez +3 à la touche contre les montures.<br>Effet 2 : Si vous faites une réussite critique vous augmentez la plage de réussite critique de +1 avec le naginata pour le reste du combat. Effet cumulable.                                                                                                                  | **Maniement à deux mains**, **Allonge (1)**, **Critique** |
-| Hache Barbue      | **Moyenne** | 4      | Effet 0 : -<br>Effet 1 : Si vous touchez une cible ayant un bouclier, il se brise.<br>Effet 2 : Si vous possédez vous même un bouclier, vous pouvez donner un coup avec ce qui inflige 2 dégâts supplémentaires                                                                                                                                           |                                                           |
-| Hallebarde        | **Moyenne** | 5      | Effet 0 : -<br>Effet 1 : Vous avez +2 à la touche contre une cible montée.<br>Effet 2 : Si vous êtes immobile durant votre tour, vous gagnez +1 à la touche et vous infligez 2 dégâts supplémentaires.                                                                                                                                                    | **Maniement à deux mains**, **Allonge (1)**               |
-| Fléau             | **Moyenne** | 5      | Effet 0: Sur un échec critique vous vous infligez les dégâts sur vous-même.<br>Effet 1: Ignore les boucliers. Vous avez +1 à la touche.<br>Effet 2: Vous infligez un Saignement.                                                                                                                                                                          |                                                           |
-| Masse<br>d’armes  | **Moyenne** | 5      | Effet 0 : -<br>Effet 1 : Si vous touchez une cible vous abimez l’armure de l'adversaire il perd donc 1 à sa CA d’armure.<br>Effet 2 : Sur un “20” vous briser un membre de la cible et infliger 4 dégâts supplémentaires.                                                                                                                                 |                                                           |
-| Estoc             | **Moyenne** | 5      | Effet 0 : Vous avez un bonus de +1 à la touche contre une cible qui porte une armure.<br>Effet 1 : Vous avez un bonus de +2 à la touche contre une cible qui porte une armure lourde.<br>Effet 2  : Lorsque vous attaquez un adversaire invulnérable au dégâts perçants, vous considérez qu’il est résistant. De même pour la résistance qui est annulée. |                                                           |
-| Epée longue       | **Moyenne** | 5      | Effet 0 : -<br>Effet 1 : Vous avez +1 à la touche.<br>Effet 2 : Vous avez +2 à la touche supplémentaire.                                                                                                                                                                                                                                                  | **Polyvalent**                                            |
-| Marteau de guerre | **Lourde**  | 5      | Effet 0 : Vous avez un malus à la touche de -2.<br>Effet 1 : Vous n’avez plus le malus pour toucher. Vous avez +1 à la touche.<br>Effet 2 : Vous pouvez faire une attaque latérale pour attaquer plusieurs cibles en même temps. Vous attaquez alors les cibles devant vous. Une attaque latérale par tour maximum.                                       | **Maniement à deux mains**, **Allonge (1)**               |
-| Claymore          | **Lourde**  | 6      | Effet 0 : Vous avez un malus à la touche de -2 et vous avez aussi un malus de Bvi de -1.<br>Effet 1 : Vous n’avez plus le malus pour toucher. <br>Effet 2 : Les dégâts deviennent 8. Vous avez +1 à la touche.                                                                                                                                            | **Maniement à deux mains**                                |
-| Hache d’arme      | **Lourde**  | 7      | Effet 0: -<br>Effet 1: Si vous touchez une cible ayant un bouclier, il se brise.<br>Effet 2: Si vous avez obtenu un 1 (ou 2?) sur le dé de dégâts cela devient un 12.#E#                                                                                                                                                                                  | **Maniement à deux mains**, **Allonge (1)**               |
+| Arme             | Poids       | Dégâts | Propriétés                                  | Type de dégâts         |
+| ---------------- | ----------- | ------ | ------------------------------------------- | ---------------------- |
+| Hache de lancer  | **Légère**  | 1      | **Lancer (9)**, **Double attaque**          | Tranchant              |
+| Chaîne           | **Moyenne** | 2      | **Maniement à deux mains**, **Allonge (1)** | Contondant             |
+| Epée longue      | **Moyenne** | 3      | **Polyvalent**                              | Tranchant              |
+| Fléau            | **Moyenne** | 3      | -                                           | Contondant             |
+| Hache Barbue     | **Moyenne** | 3      | -                                           | Tranchant              |
+| Hallebarde       | **Moyenne** | 4      | **Maniement à deux mains**, **Allonge (1)** | Perforant              |
+| Masse<br>d’armes | **Moyenne** | 3      | -                                           | Contondant             |
+| Naginata         | **Moyenne** | 4      | **Maniement à deux mains**, **Allonge (1)** | Tranchant              |
+| Claymore         | **Lourde**  | 7      | **Maniement à deux mains**                  | Tranchant              |
+| Hache d’arme     | **Lourde**  | 7      | **Maniement à deux mains**, **Allonge (1)** | Contondant / Perforant |
+## Armes à distances
 
-## Arme à distance
-
-| Arme            | Dégâts | Effet spécial                                                                                                                                                                                                                                                                                                                        | Portée    | Propriétés                             |
-| --------------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------- | -------------------------------------- |
-| Sarbacane       | 3      | Effet 0 : -<br>Effet 1 : Vous gagnez +2 à la touche. En cas d’attaque surprise +2 supplémentaires.<br>Effet 2 : Vous avez un avantage au tir.                                                                                                                                                                                        | 18 mètres |                                        |
-| Shuriken        | 3      | Effet 0: Vous avez un malus de -6 à la touche.<br>Effet 1: Vous pouvez lancer 3 shuriken dans la même attaque. Si vous ratez un tir vous avez un bonus de +2 pour le prochain lancer. (Cumulable, se remet à zéro si vous touchez.)<br>Effet 2: Vous gagnez un bonus de +2 à la touche. La cible  touchée a un -2 pour vous toucher. | 18 mètres |                                        |
-| Fronde          | 3      | Effet 0: Vous avez un malus à la touche de -2.<br>Effet 1: Vous n’avez plus le malus pour toucher.<br>Effet 2: Vous pouvez charger votre attaque contre 1 Pe supplémentaire pour gagner +2 à la touche et +2 dégâts.                                                                                                                 | 15 mètres |                                        |
-| Arc Court       | 4      | Effet 0 : -<br>Effet 1 : Lorsque vous êtes discret et que vous tirez, vous avez un bonus de +2 pour votre prochain jet de discrétion. <br>Effet 2 : Chaque tour vous pouvez faire un tir avec deux flèches pour une attaque, celle-ci inflige 2d4 dégâts.                                                                            | 50 mètres | **Maniement à deux mains**             |
-| Arc Composite   | 4      | Effet 0 : Vous utilisez votre For à la place de votre Dex pour cette arme.<br>Effet 1 : Vous gagnez +1 à la touche.<br>Effet 2 : Si vous êtes à moins de 15m de la cible vous infligez 2 dégâts supplémentaires.                                                                                                                     | 50 mètres | **Maniement à deux mains**             |
-| Arc long        | 5      | Effet 0 : -<br>Effet 1 : Vous gagnez +2 à la touche.<br>Effet 2 : Vous outrepassez un niveau d’abri.                                                                                                                                                                                                                                 | 80 mètres | **Maniement à deux mains**             |
-| Arbalète légère | 6      | Effet 0 : Il faut recharger pour 2 Pe avant de pouvoir retirer.<br>Effet 1 : Vous pouvez recharger plus rapidement, recharger ne coûte plus que 1 Pe.<br>Effet 2 : Vous avez +2 à la touche si l’adversaire porte une armure.                                                                                                        | 35 mètres | **Maniement à deux mains**             |
-| Arbalète lourde | 8      | Effet 0 : Il faut recharger pour 3 Pe avant de pouvoir retirer. Vous perdez 3 Pm.<br>Effet 1 : Vous avez +2 à la touche si l’adversaire porte une armure.<br>Effet 2 : Si vous touchez une cible, il perd 1 à sa CA pour le reste du combat.                                                                                         | 60 mètres | **Maniement à deux mains**, **Lourde** |
-| Fusil à vapeur  | 4      | Effet 0 : Rechargement pour 3 Pe. Capacité de 3 munitions.<br>Effet 1 : Modulable, l’arme peut accueillir un module supplémentaire.<br>Effet 2 : L’arme peut accueillir un module supplémentaire.                                                                                                                                    | 35 mètres | **Maniement à deux mains**             |
-### Module d'arme
-
-| Nom                   | Effet spécial                                                                                                                                                                     |
-| --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Shotgun               | Peut tirer les trois munitions d’un coup pour le prix d’une attaque. Cela compte comme une seule attaque infligeant 3d6 dégâts. Cet effet ne peut être utilisé qu’à 15 m maximum. |
-| Lance-<br><br>grenade | Permet de lancer une grenade avec l’arme comme tir secondaire. Peut lancer une grande à 18m avec un bonus de +2 au lancer.                                                        |
-| Détonateur            | L’arme est considérée comme Lourde.                                                                                                                                               |
- 
-| Grenade     | Dégâts : 1d4                                                      | Zone: Cercle de 2m de rayon | Portée : 9m |
-| ----------- | ----------------------------------------------------------------- | --------------------------- | ----------- |
-| Nom         | Effet spécial                                                     |                             |             |
-| Fragmenté   | La zone d'effet devient un cercle de 3m de rayon.                 |                             |             |
-| Incendiaire | Applique Enflammé aux personnes se trouvant dans la zone.         |                             |             |
-| Fumigène    | Aveugle les personnes dans la zone et bloquent les lignes de vue. |                             |             |
-| Empoisonné  | Applique Empoisonné aux personnes dans la zone.                   |                             |             |
-| Cryo        | Appliquer 2 effets de Gel sur les personnes dans la zone.         |                             |             |
+| Arme              | Portée    | Dégâts | Propriétés                                               | Type de dégâts |
+| ----------------- | --------- | ------ | -------------------------------------------------------- | -------------- |
+| Sarbacane         | 18 mètres | 3      | -                                                        | Perforant      |
+| Fronde            | 12 mètres | 4      | -                                                        | Perforant      |
+| Arc Court         | 50 mètres | 4      | **Maniement à deux mains**                               | Perforant      |
+| Arc long          | 80 mètres | 5      | **Maniement à deux mains**                               | Perforant      |
+| Arbalète de poing | 35 mètres | 6      | **Maniement à deux mains**, **Rechargement**             | Perforant      |
+| Arbalète          | 60 mètres | 8      | **Maniement à deux mains**, **Lourde**, **Rechargement** | Perforant      |
+| Pistolet          | 35 mètres | 6      | **Maniement à deux mains**, **Rechargement**             | Perforant      |
+| Fusil             | 50 mètres | 8      | **Maniement à deux mains**, **Rechargement**             | Perforant      |

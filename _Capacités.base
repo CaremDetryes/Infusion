@@ -1,0 +1,6 @@
+views:
+  - type: table
+    name: Tableau
+    filters:
+      and:
+        - file.inFolder("Latos - Infusion/Infusion/Ressources/Capacité")

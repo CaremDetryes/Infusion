@@ -23,7 +23,7 @@ L'esquive doit être déclarée **avant le jet d'attaque adverse**. Effectuez un
 Certains types de dégâts ne peuvent pas être évités par une esquive. C'est notamment le cas des dégâts de **Force**, **Psychiques** et de **Poison**.
 ### Parade
 
-Vous utilisez votre équipement pour absorber une partie de l'attaque. Lorsque vous effectuez un jet de défense contre l'attaque une arme vous accorde **+1 dé** et un bouclier vous accorde **+2 dés**. Ce bonus s'ajoute aux autres dés du jet d'armure.
+Vous utilisez votre équipement pour absorber une partie de l'attaque. Lorsque vous effectuez un jet de défense contre l'attaque, une arme vous accorde **+1 dé** et un bouclier vous accorde **+2 dés**. Ce bonus s'ajoute aux autres dés du jet d'armure.
 ### Attaque d'opportunité
 
 Lorsqu'un ennemi pénètre dans votre zone de contrôle au corps à corps, vous pouvez immédiatement effectuer une attaque contre lui. Cette attaque est résolue normalement et interrompt brièvement son déplacement.
@@ -109,3 +109,9 @@ Les succès obtenus au-delà du Challenge requis représentent la qualité du ti
 > Lyra lance ensuite son **dé de Précision** et obtient un **6**. Grâce à ses 2 succès excédentaires, le résultat est porté à **8**. Son attaque inflige donc des dégâts **Appuyés**.
 > 
 > Si elle avait obtenu un **8** sur son dé de Précision, le bonus l'aurait porté à **10**, ce qui aurait produit une attaque **Brutale**.
+
+# Initiative
+L'initiative représente l'ordre des tours en combat. Pour déterminer l'initiative d'un personnage, il fait un jet de Vivacité sans challenge définie. le nombre de succès détermine son initiative. Quand il y a une égalité entre les joueurs, ils décident de l'ordre.
+
+> [!warning] Attention !
+> Ce jet de Vivacité ne donne pas d'expérience.

@@ -1,0 +1,1 @@
+Vos attaques à mains nue ou avec des phalanges ont +1 de dégâts. De plus si vous attaquer avec une arme de corps à corps non magique elle se brise.

@@ -1,0 +1,1 @@
+Votre résistance au poison augmente de 1.  De plus vous avez un avantage au jet de sauvegarde contre le poison.

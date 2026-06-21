@@ -1,0 +1,1 @@
+Votre peau deviens de la pierre. Votre resistance au feu augmente de 1.

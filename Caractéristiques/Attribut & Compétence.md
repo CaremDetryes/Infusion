@@ -84,5 +84,5 @@ Les Attributs et Compétences peuvent s'améliorer d'une autre manière avec les
 | 4+       | 15             |
 | 3+       | 30             |
 | 2+       | 60             |
-
-
+# Perception
+Lorsque le MJ demande un jet de Perception à un joueur ce dernier fais un jet de Vivacité normale sans connaître le challenge. Dans le cas ou le joueur ne perçoit rien, il ne gagne pas d'expérience.

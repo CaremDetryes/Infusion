@@ -8,7 +8,7 @@ Les points de vie maximum sont déterminés par la puissance physique et l’end
 La **Base de corps** représente la résistance moyenne du personnages. Sa valeur par défaut est de **4**.
 ### Perte de PV
 
-Lorsqu'un personnage subis des blessures qui le font tombé en dessus de la moitié de ses PV maximum, il perd une action par tour.
+Lorsqu'un personnage subis des blessures qui le font tombé en dessous de la moitié de ses PV maximum, il perd une action par tour.
 
 Lorsqu’un personnage tombe à **0 PV** ou moins, il ne tombe pas inconscient. Il gagne immédiatement **1 niveau de fatigue** et entre dans un état de survie désespéré. Dans cet état il ne possède plus qu’**une d’action par tour** et ne peut plus maintenir sa concentration. De plus si vous voulez faire une attaque ou lancer un sort, vous devez effectuer un **jet de sauvegarde de Constitution** Challenge 3. En cas d’échec le personnage gagne **1 niveau de fatigue**.
 

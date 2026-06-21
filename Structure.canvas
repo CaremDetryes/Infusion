@@ -2,26 +2,22 @@
 	"nodes":[
 		{"id":"9876a26a3b362d30","type":"group","x":-280,"y":-480,"width":2480,"height":1440,"label":"Combat"},
 		{"id":"83f4f2cdfabcf85d","type":"group","x":-1660,"y":-480,"width":1300,"height":1440,"label":"Caractérisques"},
-		{"id":"ef0211edf12eed4b","type":"group","x":680,"y":-1320,"width":1160,"height":674,"label":"Les idées non structuré"},
-		{"id":"7555e0fd7c3edc17","type":"file","file":"Latos - Infusion/Infusion/Santé mentale et folie.md","x":-2560,"y":263,"width":800,"height":669},
-		{"id":"9ef84623452b19c9","type":"file","file":"Latos - Infusion/Infusion/Destin.md","x":-2560,"y":-460,"width":800,"height":669},
-		{"id":"37aadd7cbcf2a357","type":"file","file":"Latos - Infusion/Infusion/Combat/Arts martiaux.md","x":1380,"y":263,"width":800,"height":669},
-		{"id":"a5710c5a5c2eb0c0","type":"file","file":"Latos - Infusion/Infusion/Combat/Combat.md","x":-260,"y":-460,"width":800,"height":669},
-		{"id":"2e191525fba7547d","type":"file","file":"Latos - Infusion/Infusion/Combat/Défense.md","x":-260,"y":263,"width":800,"height":669},
-		{"id":"01238845287f4ffe","type":"file","file":"Latos - Infusion/Infusion/Caractéristiques/Compétences.base","x":-821,"y":-460,"width":444,"height":1392},
-		{"id":"95b41499291f8f5c","type":"file","file":"Latos - Infusion/Infusion/Combat/Blessures.md","x":560,"y":-460,"width":800,"height":669},
-		{"id":"62ed26472388663c","type":"file","file":"Latos - Infusion/Infusion/Combat/Equipements.md","x":560,"y":263,"width":800,"height":669},
+		{"id":"ef0211edf12eed4b","type":"group","x":540,"y":-1040,"width":840,"height":440,"label":"Les idées non structuré"},
+		{"id":"01238845287f4ffe","type":"file","file":"Latos - Infusion/Infusion/_Compétences.base","x":-821,"y":-460,"width":444,"height":1392},
 		{"id":"63fd5653749d59be","type":"file","file":"Latos - Infusion/Infusion/Caractéristiques/Attribut & Compétence.md","x":-1640,"y":-460,"width":800,"height":669},
 		{"id":"dff40567828f6ec8","type":"file","file":"Latos - Infusion/Infusion/Caractéristiques/Connnaissance.md","x":-1640,"y":263,"width":800,"height":669},
+		{"id":"7555e0fd7c3edc17","type":"file","file":"Latos - Infusion/Infusion/Santé mentale et folie.md","x":-2560,"y":263,"width":800,"height":669},
+		{"id":"9ef84623452b19c9","type":"file","file":"Latos - Infusion/Infusion/Destin.md","x":-2560,"y":-460,"width":800,"height":669},
+		{"id":"a5710c5a5c2eb0c0","type":"file","file":"Latos - Infusion/Infusion/Combat/Combat.md","x":-260,"y":-460,"width":800,"height":669},
+		{"id":"2e191525fba7547d","type":"file","file":"Latos - Infusion/Infusion/Combat/Défense.md","x":-260,"y":263,"width":800,"height":669},
 		{"id":"c138526e7e71f1a1","type":"file","file":"Latos - Infusion/Infusion/Base du système.md","x":-1160,"y":-1311,"width":800,"height":751},
-		{"id":"9363b4c1f1556647","type":"file","file":"Latos - Infusion/Infusion/Note.md","x":-210,"y":-1211,"width":800,"height":551},
-		{"id":"a96a80e9774df64d","type":"text","text":"Pour les Capacités : \n\nLes Dons DnD ou les capacités de classe (faire un arbre des différents Dons avec les prérequis (surtout pour les capacité de classe))\n\nEntrainement nécessaire pour débloquer la Capacité\n\nAu même titre que les Belief de burning wheel, chaque joueur peut s'entrainer sur 3 Capacités en même temps du moment qu'il possèdes les prérequis. \nSoit un entrainement avec un instructeur, soit dans des situation sur le tas (potentiellement dangereuse ou couteuse)","x":700,"y":-951,"width":800,"height":284},
+		{"id":"95b41499291f8f5c","type":"file","file":"Latos - Infusion/Infusion/Combat/Blessures.md","x":560,"y":-460,"width":800,"height":669},
 		{"id":"cc9ab35c26711e10","type":"text","text":"# Objectif d'Infusion (Préambule)\nFaire un système DnD like, sans classe avec des morceau de règle d'autres système comme burning wheel ou IKWYAO.\n\nOn veut jouer des Héros, des mecs au dessus du reste. ","x":-1001,"y":-1560,"width":483,"height":180},
-		{"id":"4300cbe36ab066e2","type":"text","text":"Type de magie :\n- Académique : Magie créer et codifié par les espèces intellectuellement développées\n- Naturel : Magie dans son état la plus pur et sauvage\n- Spirituel : Magie des religions et du divins ou propre aux esprits\n- Emprunté : Magie directement emprunté à une autre entité (Un démon, un dieu, une élémentaire primordial)","x":700,"y":-1300,"width":370,"height":329},
-		{"id":"010075df7d752d96","type":"text","text":"magie: tous le monde peut faire de la magie, un système de construction des sorts avec plusieurs paramètre (type, zone, durée, distance, taille, etc... )\n\nJet de sort raté -> une proba d'invoquer une créature du néant (n'importe quelle créature du jeu) mais niveau de la créature limité selon la puissance du sort\n\nSystème de mana, si plus de mana -> peut puiser dans c'est force (taxe sur l'endurance)","x":1100,"y":-1297,"width":400,"height":306},
-		{"id":"13431802ea99146f","type":"text","text":"Ajouter dans le système de jet la déscription d'avantage et désavantage : up ou nerf de facilité","x":1520,"y":-1297,"width":250,"height":117}
+		{"id":"7c7872e892b56f09","x":560,"y":-720,"width":400,"height":95,"type":"text","text":"Faire l'entrainement et la manière de débloquer les sorts et capacités"},
+		{"id":"a96a80e9774df64d","type":"text","text":"Pour les Capacités : \n\nLes Dons DnD ou les capacités de classe (faire un arbre des différents Dons avec les prérequis (surtout pour les capacité de classe))\n\nEntrainement nécessaire pour débloquer la Capacité\n\nAu même titre que les Belief de burning wheel, chaque joueur peut s'entrainer sur 3 Capacités en même temps du moment qu'il possèdes les prérequis. \nSoit un entrainement avec un instructeur, soit dans des situation sur le tas (potentiellement dangereuse ou couteuse)","x":560,"y":-1017,"width":800,"height":284},
+		{"id":"f47290f2e8c1132b","type":"file","file":"Latos - Infusion/Infusion/Magie.md","x":-1640,"y":1040,"width":800,"height":669},
+		{"id":"62ed26472388663c","type":"file","file":"Latos - Infusion/Infusion/Combat/Equipements.md","x":1380,"y":-460,"width":800,"height":1392},
+		{"id":"37aadd7cbcf2a357","type":"file","file":"Latos - Infusion/Infusion/Combat/Arts martiaux.md","x":560,"y":263,"width":800,"height":669}
 	],
-	"edges":[
-		{"id":"ac960f26558e425c","fromNode":"13431802ea99146f","fromSide":"top","toNode":"c138526e7e71f1a1","toSide":"bottom"}
-	]
+	"edges":[]
 }

@@ -21,4 +21,4 @@ Il a donc qu'un seul succès. L'écart avec le Challenge est de 2, il perd donc 
 Les folies peuvent être définies par le MJ selon la situation, allant de troubles comportementaux à des altérations profondes de la personnalité.
 ## Récupération
 
-La santé mentale se régénère avec le temps. Chaque mois dans le jeu, le personnage récupère un nombre de points égal à la moyenne de sa **Volonté**.
+La santé mentale se régénère avec le temps. Chaque mois dans le jeu, le personnage récupère un nombre de points égal à la valeur de sa **Volonté**.

@@ -40,6 +40,7 @@ Chaque arme de corps à corps a un poids, celui-ci détermine le nombre de succ�
 
 | Nom         | Poids       | Dégâts | Propriétés                                                                   | Type de dégâts        |
 | ----------- | ----------- | ------ | ---------------------------------------------------------------------------- | --------------------- |
+| Phalange    | **Légère**  | 1      | **Double attaque**                                                           | Contondant            |
 | Dague       | **Légère**  | 1      | **Finesse**, **Lancer (9)**, **Double attaque**                              | Perforant             |
 | Bâton       | **Moyenne** | 2      | **Polyvalent**                                                               | Contondant            |
 | Epée courte | **Moyenne** | 2      | **Finesse**                                                                  | Perforant / Tranchant |
@@ -67,7 +68,7 @@ Chaque arme de corps à corps a un poids, celui-ci détermine le nombre de succ�
 | Fronde            | 30 mètres  | 4      | -                                                                            | Perforant      |
 | Arc Court         | 60 mètres  | 4      | **Maniement à deux mains**                                                   | Perforant      |
 | Arc long          | 120 mètres | 5      | **Maniement à deux mains**                                                   | Perforant      |
-| Arbalète de poing | 45 mètres  | 5      | **Maniement à deux mains**, **Rechargement**, **Perce armure 1**             | Perforant      |
+| Arbalète de poing | 45 mètres  | 5      | **Rechargement**, **Perce armure 1**                                         | Perforant      |
 | Arbalète          | 120 mètres | 6      | **Maniement à deux mains**, **Lourde**, **Rechargement**, **Perce armure 1** | Perforant      |
 | Pistolet          | 30 mètres  | 6      | **Maniement à deux mains**, **Rechargement**, **Perce armure 1**             | Perforant      |
 | Fusil             | 75 mètres  | 8      | **Maniement à deux mains**, **Rechargement**, **Perce armure 1**             | Perforant      |

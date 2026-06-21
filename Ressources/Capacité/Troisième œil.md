@@ -1,0 +1,1 @@
+Vous pouvez projeter un œil astral en avant, dans une porté de 20 mètres. Pendant ce temps vous êtes aveugle et voyer a travers cet œil.  Ne peut pas traverser les murs.

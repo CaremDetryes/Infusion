@@ -1,9 +1,9 @@
-Les armures et résistances permettent de réduire, voire d'annuler, les dégâts subis lors d'une attaque. Lorsqu'un personnage est touché par une attaque infligeant des dégâts, il effectue un **jet de défense** afin de déterminer l'efficacité de sa protection.
+Les armures et résistances permettent de réduire, voire d'annuler, les dégâts. Lorsqu'un personnage est blessé, il effectue un **jet de défense** afin de déterminer l'efficacité de sa protection.
 ## Jet de défense
 
 Pour effectuer un jet de défense, additionnez les dés provenant de votre armure, de vos éventuelles résistances au type de dégâts subi et d'une parade ou de tout autre effet augmentant votre protection.
 
-La **Facilité** du jet est déterminée par l'armure portée.
+La **Facilité** du jet est de 4+.
 
 Le nombre de succès obtenus détermine les dégâts encaissés :
 - **2 succès ou plus** : l'attaque est entièrement absorbée. Vous ne subissez aucun dégât.
@@ -51,3 +51,8 @@ Pour chaque type de dégâts si le nombre de dé est positif vous avez une rési
 Une créature possédant **2 dés de résistance au feu** ajoutera donc **2 dés** à ses jets de défense contre les dégâts de feu, mais n'en bénéficiera pas contre les autres types de dégâts.
 >
 À l'inverse, une créature possédant **1 dé de vulnérabilité au froid** retirera **1 dé** à ses jets d'armure lorsqu'elle subit des dégâts de froid.
+## Exception : dégâts psychiques et de poison
+
+Les dégâts **psychiques** et de **poison** ignorent la protection offerte par les armures. Lorsqu'un personnage effectue un **jet de défense** contre l'un de ces deux types de dégâts, il ne bénéficie d'aucun dé provenant de son armure. De même il ne peut bénéficier d'une parade.
+
+En revanche, il applique normalement tous les autres modificateurs à son jet de défense, notamment ceux accordés par ses **résistances**, ses **vulnérabilités** ou toute autre capacité augmentant sa protection.

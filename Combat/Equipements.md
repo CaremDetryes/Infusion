@@ -36,45 +36,38 @@ Chaque arme de corps à corps a un poids, celui-ci détermine le nombre de succ�
 - **Légère.** L'arme nécessite qu'un seul succès pour amplifier l'attaque.
 - **Moyenne.** L'arme nécessite deux succès pour amplifier l'attaque.
 - **Lourde.** L'arme nécessite trois succès pour amplifier l'attaque.
-#### Amplification
-Tous les succès au dessus du Challenge de l'attaque, peuvent servir à l'amplification du résultat de l'attaque. Pour chaque tranches X succès, où X est le nombre de succès désigné par le poids de votre armes, vous pouvez ajoutez un nouvel effet à votre attaque. L'amplification de base est l'augmentation des dégâts du SAB : Superficielle -> Appuyée -> Brutale. D'autre amplification peuvent être donnée par vos arts martiaux.
-
-> [!tip] Exemple
-> Aldric effectue une attaque avec 5 dés, une facilité de 4+ et un challenge de 1. Il a une arme Moyenne, et fait 3 succès. Le premier succès fait réussir l'attaque, et il décide d'utilisé les deux autres succès pour amplifier les dégâts de son attaque. Il inflige donc une frappe Appuyée.
-> 
-> Aldric effectue une autre attaque avec 4 dés, une facilité de 5+ et un challenge de 1. Il a une arme Lourde, et fait seulement 2 succès, le premier succès lui permet de réussir l'attaque, mais il n'a pas suffisamment de succès pour améliorer sont attaque (il lui manque deux succès). Il inflige donc une frappe Superficielle.
 ### Armes communes
 
-| Nom         | Poids       | Dégâts | Propriétés                                                  | Type de dégâts        |
-| ----------- | ----------- | ------ | ----------------------------------------------------------- | --------------------- |
-| Dague       | **Légère**  | 1      | **Finesse**, **Lancer (9)**, **Double attaque**             | Perforant             |
-| Bâton       | **Moyenne** | 2      | **Polyvalent**                                              | Contondant            |
-| Epée courte | **Moyenne** | 2      | **Finesse**                                                 | Perforant / Tranchant |
-| Pique       | **Moyenne** | 3      | **Maniement à deux mains**, **Allonge (1)**, **Lancer (9)** | Perforant             |
-| Faux        | **Lourde**  | 5      | **Finesse**, **Maniement à deux mains**, **Allonge (1)**    | Tranchant             |
-### Armes martials
+| Nom         | Poids       | Dégâts | Propriétés                                                                   | Type de dégâts        |
+| ----------- | ----------- | ------ | ---------------------------------------------------------------------------- | --------------------- |
+| Dague       | **Légère**  | 1      | **Finesse**, **Lancer (9)**, **Double attaque**                              | Perforant             |
+| Bâton       | **Moyenne** | 2      | **Polyvalent**                                                               | Contondant            |
+| Epée courte | **Moyenne** | 2      | **Finesse**                                                                  | Perforant / Tranchant |
+| Pique       | **Moyenne** | 3      | **Maniement à deux mains**, **Allonge (1)**, **Lancer (9)**                  | Perforant             |
+| Faux        | **Lourde**  | 5      | **Finesse**, **Maniement à deux mains**, **Allonge (1)**, **Perce armure 1** | Tranchant             |
+### Armes martiales
 
-| Arme             | Poids       | Dégâts | Propriétés                                  | Type de dégâts         |
-| ---------------- | ----------- | ------ | ------------------------------------------- | ---------------------- |
-| Hache de lancer  | **Légère**  | 1      | **Lancer (9)**, **Double attaque**          | Tranchant              |
-| Chaîne           | **Moyenne** | 2      | **Maniement à deux mains**, **Allonge (1)** | Contondant             |
-| Epée longue      | **Moyenne** | 3      | **Polyvalent**                              | Tranchant              |
-| Fléau            | **Moyenne** | 3      | -                                           | Contondant             |
-| Hache Barbue     | **Moyenne** | 3      | -                                           | Tranchant              |
-| Hallebarde       | **Moyenne** | 4      | **Maniement à deux mains**, **Allonge (1)** | Perforant              |
-| Masse<br>d’armes | **Moyenne** | 3      | -                                           | Contondant             |
-| Naginata         | **Moyenne** | 4      | **Maniement à deux mains**, **Allonge (1)** | Tranchant              |
-| Claymore         | **Lourde**  | 7      | **Maniement à deux mains**                  | Tranchant              |
-| Hache d’arme     | **Lourde**  | 7      | **Maniement à deux mains**, **Allonge (1)** | Contondant / Perforant |
+| Arme             | Poids       | Dégâts | Propriétés                                                      | Type de dégâts         |
+| ---------------- | ----------- | ------ | --------------------------------------------------------------- | ---------------------- |
+| Hache de lancer  | **Légère**  | 1      | **Lancer (9)**, **Double attaque**                              | Tranchant              |
+| Chaîne           | **Moyenne** | 2      | **Maniement à deux mains**, **Allonge (1)**                     | Contondant             |
+| Epée longue      | **Moyenne** | 3      | **Polyvalent**                                                  | Tranchant              |
+| Fléau            | **Moyenne** | 3      | -                                                               | Contondant             |
+| Hache Barbue     | **Moyenne** | 3      | -                                                               | Tranchant              |
+| Hallebarde       | **Moyenne** | 4      | **Maniement à deux mains**, **Allonge (1)**                     | Perforant              |
+| Masse<br>d’armes | **Moyenne** | 3      | -                                                               | Contondant             |
+| Naginata         | **Moyenne** | 4      | **Maniement à deux mains**, **Allonge (1)**                     | Tranchant              |
+| Claymore         | **Lourde**  | 7      | **Maniement à deux mains**, **Perce armure 1**                  | Tranchant              |
+| Hache d’arme     | **Lourde**  | 7      | **Maniement à deux mains**, **Allonge (1)**, **Perce armure 1** | Contondant / Perforant |
 ## Armes à distances
 
-| Arme              | Portée    | Dégâts | Propriétés                                               | Type de dégâts |
-| ----------------- | --------- | ------ | -------------------------------------------------------- | -------------- |
-| Sarbacane         | 18 mètres | 3      | -                                                        | Perforant      |
-| Fronde            | 12 mètres | 4      | -                                                        | Perforant      |
-| Arc Court         | 50 mètres | 4      | **Maniement à deux mains**                               | Perforant      |
-| Arc long          | 80 mètres | 5      | **Maniement à deux mains**                               | Perforant      |
-| Arbalète de poing | 35 mètres | 6      | **Maniement à deux mains**, **Rechargement**             | Perforant      |
-| Arbalète          | 60 mètres | 8      | **Maniement à deux mains**, **Lourde**, **Rechargement** | Perforant      |
-| Pistolet          | 35 mètres | 6      | **Maniement à deux mains**, **Rechargement**             | Perforant      |
-| Fusil             | 50 mètres | 8      | **Maniement à deux mains**, **Rechargement**             | Perforant      |
+| Arme              | Portée     | Dégâts | Propriétés                                                                   | Type de dégâts |
+| ----------------- | ---------- | ------ | ---------------------------------------------------------------------------- | -------------- |
+| Sarbacane         | 15 mètres  | 2      | -                                                                            | Perforant      |
+| Fronde            | 30 mètres  | 4      | -                                                                            | Perforant      |
+| Arc Court         | 60 mètres  | 4      | **Maniement à deux mains**                                                   | Perforant      |
+| Arc long          | 120 mètres | 5      | **Maniement à deux mains**                                                   | Perforant      |
+| Arbalète de poing | 45 mètres  | 5      | **Maniement à deux mains**, **Rechargement**, **Perce armure 1**             | Perforant      |
+| Arbalète          | 120 mètres | 6      | **Maniement à deux mains**, **Lourde**, **Rechargement**, **Perce armure 1** | Perforant      |
+| Pistolet          | 30 mètres  | 6      | **Maniement à deux mains**, **Rechargement**, **Perce armure 1**             | Perforant      |
+| Fusil             | 75 mètres  | 8      | **Maniement à deux mains**, **Rechargement**, **Perce armure 1**             | Perforant      |

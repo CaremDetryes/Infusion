@@ -4,7 +4,7 @@
 		{"id":"83f4f2cdfabcf85d","type":"group","x":-1660,"y":-480,"width":1300,"height":1440,"label":"Caractérisques"},
 		{"id":"ef0211edf12eed4b","type":"group","x":540,"y":-1040,"width":840,"height":440,"label":"Les idées non structuré"},
 		{"id":"01238845287f4ffe","type":"file","file":"Latos - Infusion/Infusion/_Compétences.base","x":-821,"y":-460,"width":444,"height":1392},
-		{"id":"63fd5653749d59be","type":"file","file":"Latos - Infusion/Infusion/Caractéristiques/Attribut & Compétence.md","x":-1640,"y":-460,"width":800,"height":669},
+		{"id":"63fd5653749d59be","type":"file","file":"Latos - Infusion/Infusion/Caractéristiques/Attribut.md","x":-1640,"y":-460,"width":800,"height":669},
 		{"id":"dff40567828f6ec8","type":"file","file":"Latos - Infusion/Infusion/Caractéristiques/Connnaissance.md","x":-1640,"y":263,"width":800,"height":669},
 		{"id":"7555e0fd7c3edc17","type":"file","file":"Latos - Infusion/Infusion/Santé mentale et folie.md","x":-2560,"y":263,"width":800,"height":669},
 		{"id":"9ef84623452b19c9","type":"file","file":"Latos - Infusion/Infusion/Destin.md","x":-2560,"y":-460,"width":800,"height":669},

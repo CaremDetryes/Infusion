@@ -12,6 +12,6 @@
 **Dégâts** : 1
 **Type de dégât** : Feu
 ### Description
-Vous enveloppez une arme que vous touchez  de flammes surnaturelles. Pendant toute la durée du sort, les attaques effectuées avec cette arme infligent également les dégâts de feu du sort en plus de leurs dégâts habituels.
+Vous enveloppez une arme que vous touchez de flammes surnaturelles. Pendant toute la durée du sort, les attaques effectuées avec cette arme infligent également les dégâts de feu du sort en plus de leurs dégâts habituels.
 ### Amplifications
 - **Durée accrue :** augmente la durée du sort de 1 attaque.

@@ -71,7 +71,7 @@ Une fois le sort lancé, les cibles concernées effectuent le **jet de sauvegard
 
 Les sorts d'**Invocation** permettent de faire apparaître ou de contrôler des créatures ou des objets.
 
-Contrairement aux autres formes de magie, une invocation persiste jusqu'à ce qu'elle disparaisse, soit détruite ou soit volontairement renvoyée.
+L'invocation disparait à la fin de la durée du sort, lorsqu'elle est détruite ( tombe à 0 PV ) ou lorsqu'elle est volontairement renvoyée.
 #### Contrôle
 
 Chaque personnage possède une valeur de **Contrôle**, représentant sa capacité à maintenir des invocations sous son autorité. Chaque créature invoquée possède un **coût en Contrôle**, indiqué dans la fiche du sort d'invocation. Tant que la somme des coûts en Contrôle de toutes vos invocations ne dépasse pas votre valeur de Contrôle, celles-ci vous obéissent normalement.

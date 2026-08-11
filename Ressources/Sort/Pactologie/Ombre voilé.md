@@ -11,3 +11,4 @@
 Vous enveloppez une créature que vous pouvez toucher d'un voile d'ombre qui dissimule sa silhouette et étouffe sa présence. Tant que le sort est actif, la cible bénéficie d'un **avantage** à tous ses **jets de Discrétion**.
 ### Amplifications
 - **Durée accrue :** augmente la durée du sort de 1 minute.
+- **Cible multiple** : augmente le nombre de cible de 1.

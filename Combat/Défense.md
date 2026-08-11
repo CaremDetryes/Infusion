@@ -20,7 +20,7 @@ Certaines attaques possèdent la propriété **Perce armure**. Après avoir effe
 > Il obtient 3 succès. L'attaque aillant **Perce armure 2**, il retire donc **2 succès** au résultat final du jet de défense. Résultat, Aldric obtient 1 succès, il subit l'attaque partiellement.
 ## Dégradation des armures
 
-Les armures finissent par s'user sous les coups répétés. Lors d'un jet de défense, si au moins **deux dés affichent un résultat de 1**, l'armure subit un dégât. Dans le cas ou vous n'avez qu'un ou deux dés de défense, si au moins **un dé affiche un résultat de 1**, l'armure subit un dégât. Chaque dégât d'armure réduit de **1 dé** les jets de défense qu'elle procure.
+Les armures finissent par s'user sous les coups répétés. Lors d'un jet de défense, si au moins **un dé affiche un résultat de 1**, l'armure subit un dégât. Chaque dégât d'armure réduit de **1 dé** les jets de défense qu'elle procure.
 
 Une armure dont la valeur tombe à **0 dé** est considérée comme **brisée**. Elle ne fournit plus aucune protection et ne peut plus être réparée. Jusqu'à ce seuil, les dégâts d'armure peuvent être réparés par les moyens appropriés, avec les ressources disponibles.
 ### Résistances et Vulnérabilités

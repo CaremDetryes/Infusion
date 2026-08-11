@@ -1,0 +1,6 @@
+filters:
+  and:
+    - file.folder == "Latos - Infusion/Infusion/Ressources/Art martial"
+views:
+  - type: table
+    name: Tableau

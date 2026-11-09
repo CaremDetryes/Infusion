@@ -6,18 +6,19 @@ views:
   - type: table
     name: Tableau
     groupBy:
-      property: file.folder
+      property: Domaine de compétence
       direction: ASC
     order:
       - file.name
-      - file.tags
-      - file.ctime
+      - Outils ?
+      - Attribut(s)
     sort:
       - property: file.ctime
         direction: ASC
     markers: number
     indentProperties: true
     cardSize: 200
+    columnSize: {}
   - type: table
     name: LastUpdate
     order:

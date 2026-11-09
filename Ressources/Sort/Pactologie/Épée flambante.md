@@ -1,10 +1,13 @@
-**Nature** : #Offensif 
-**Coût en Mana** : 1
-**Temps d'incantation** : 1 broutille
-**Composante** : huile
-**Challenge** : 1
-**Degré d'amplification** : 1
-
+---
+Nature:
+  - Offensif
+Coût en mana: 1
+Temps d'incantation: 1 broutille
+Challenge: 1
+Degré d'amplification: 1
+Composante:
+  - Huile
+---
 **Portée** : Toucher
 **Cibles** : 1
 **Durée** : 2 attaques

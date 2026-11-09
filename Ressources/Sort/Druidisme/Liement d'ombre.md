@@ -1,9 +1,11 @@
-**Nature** : #Entrave
-**Coût en Mana** : 2
-**Temps d'incantation** : 1 action 
-**Challenge** : 1
-**Degré d'amplification** : 2
-
+---
+Nature:
+  - Entrave
+Coût en mana: 2
+Temps d'incantation: 1 action
+Challenge: 1
+Degré d'amplification: 2
+---
 **Portée** : 18 mètres 
 **Cibles** : 1
 **Durée** : Concentration, jusqu'à 1 minute

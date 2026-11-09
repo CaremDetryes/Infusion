@@ -1,9 +1,11 @@
-**Nature** : #Utilitaire
-**Coût en Mana** : 2
-**Temps d'incantation** : 1 action
-**Challenge** : 2
-**Degré d'amplification** : 2
-
+---
+Nature:
+  - Utilitaire
+Coût en mana: 2
+Temps d'incantation: 1 action
+Challenge: 2
+Degré d'amplification: 2
+---
 **Portée** : Soi-même
 **Durée** : Instantanée
 ### Description

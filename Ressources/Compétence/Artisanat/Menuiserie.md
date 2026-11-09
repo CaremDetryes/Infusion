@@ -1,6 +1,9 @@
-- **Attribut** : #Force #Dextérité 
-- **Domaine de compétence** : #Artisanat 
-
+---
+Outils ?: true
+Domaine de compétence: Artisanat
+Attribut(s):
+  - Force
+  - Dextérité
+---
 Un menuisier peut sélectionner des arbres adaptés, couper le bois et l'utiliser pour construire des structures, des outils et des meubles. Il sait façonner et graver minutieusement le bois.
 
-#Outils

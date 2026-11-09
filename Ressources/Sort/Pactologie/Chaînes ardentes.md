@@ -1,9 +1,12 @@
-**Nature** : #Offensif #Entrave 
-**Coût en Mana** : 3
-**Temps d'incantation** : 1 action
-**Challenge** : 2
-**Degré d'amplification** : 2
-
+---
+Nature:
+  - Offensif
+  - Entrave
+Coût en mana: 3
+Temps d'incantation: 1 action
+Challenge: 2
+Degré d'amplification: 2
+---
 **Portée** : 18 mètres
 **Cibles** : 1
 **Durée** : Concentration, jusqu'à 1 minute

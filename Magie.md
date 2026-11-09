@@ -137,6 +137,7 @@ Certains effets peuvent ce produire selon le résultat du **d12**.
 
 | d12    | Manifestation imprévisible                                                                                                                                                                            |
 | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1      | Ouverture d'une Brèche du Néant.                                                                                                                                                                      |
 | **2**  | Une puissante décharge magique vous traverse. Vous gagnez **1 niveau de fatigue**.                                                                                                                    |
 | **3**  | L'énergie déborde sur votre environnement. Toutes les créatures dans un rayon de **1,5 mètre** autour de vous subissent un **désavantage** à leur prochain jet.                                       |
 | **4**  | Les forces invoquées se retournent contre vous. Vous subissez l'entrave de votre sort.                                                                                                                |

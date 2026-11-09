@@ -9,7 +9,12 @@ views:
       direction: ASC
     order:
       - file.name
-      - file.tags
+      - Nature
+      - Coût en mana
+      - Temps d'incantation
+      - Challenge
+      - Degré d'amplification
+      - Composante
     sort:
       - property: file.name
         direction: ASC

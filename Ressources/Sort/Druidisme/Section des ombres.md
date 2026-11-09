@@ -1,9 +1,11 @@
-**Nature** : #Offensif 
-**Coût en Mana** : 1
-**Temps d'incantation** : 1 action
-**Challenge** : 1
-**Degré d'amplification** : 2
-
+---
+Nature:
+  - Offensif
+Coût en mana: 1
+Temps d'incantation: 1 action
+Challenge: 1
+Degré d'amplification: 2
+---
 **Portée** : 18 mètres
 **Cibles** : 1
 **Durée** : Instantanée

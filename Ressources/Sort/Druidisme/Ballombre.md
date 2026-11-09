@@ -1,9 +1,11 @@
-**Nature** : #Offensif
-**Coût en Mana** : 3
-**Temps d'incantation** : 1 action
-**Challenge** : 1
-**Degré d'amplification** : 2
-
+---
+Nature:
+  - Offensif
+Coût en mana: 3
+Temps d'incantation: 1 action
+Challenge: 1
+Degré d'amplification: 2
+---
 **Portée** : 18 mètre
 **Zone** : sphère de 1.5 mètre de rayon. Jet de sauvegarde de Vivacité.
 **Cibles** : 1

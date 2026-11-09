@@ -1,10 +1,12 @@
-**Nature** : #Utilitaire #Offensif 
-**Coût en Mana** : 
-**Temps d'incantation** :
-**Composante** :
-**Challenge** : 
-**Degré d'amplification** : 
-
+---
+Nature:
+  - Utilitaire
+  - Offensif
+Coût en mana:
+Temps d'incantation:
+Challenge:
+Degré d'amplification:
+---
 **Portée** : 
 **Zone** : 
 **Cibles** : 

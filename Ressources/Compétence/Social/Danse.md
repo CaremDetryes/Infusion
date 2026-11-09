@@ -1,4 +1,8 @@
-- **Attribut** : #Vivacité #Charisme 
-- **Domaine de compétence** : #Social  
-
+---
+Outils ?: false
+Domaine de compétence: Social
+Attribut(s):
+  - Vivacité
+  - Charisme
+---
 L'art de bouger son corps en rythme de manière expressive.

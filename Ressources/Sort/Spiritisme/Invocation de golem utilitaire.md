@@ -1,12 +1,16 @@
-**Nature** :  #Utilitaire #Invocation 
-**Coût en Mana** : 1
-**Temps d'incantation** : 1 action
-**Composante** : un tas de cailloux
-**Challenge** : 2
-**Degré d'amplification** : 3
-
+---
+Nature:
+  - Invocation
+  - Utilitaire
+Coût en mana: 1
+Temps d'incantation: 1 action
+Challenge: 2
+Degré d'amplification: 3
+Composante:
+  - Tas de cailloux
+---
 **Portée** : Touché
-**Durée** : Indéfiniment, pour maintenir l'invocation il faut payé le coût du sort toute les 3h.
+**Durée** : Indéfiniment, pour maintenir l'invocation il faut payé le coût du sort toute les 8h.
 **Contrôle :** 1
 ### Description
 Permet d'invoquer un petit golem utilitaire. Il a 2 PV. 
@@ -14,7 +18,7 @@ Chaque golem à une liste de compétence propre. Il peut faire l’action d’ai
 
 - Artisan d'Étain : [[Couture]], [[Cuisine]], [[Forgeron]]
 - Bâtisseur d'Argile : [[Excavation]], [[Maçon]], [[Menuiserie]]
-- Main de la Terre : [[Agriculture]]
+- Main de la Terre : [[Agriculture]], [[Survie]]
 - Saigneur de Vie : [[Chirurgie]], [[Premier soin]]
 
 - Balayeur de Poussière : Nettoyage

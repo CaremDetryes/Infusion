@@ -1,10 +1,13 @@
-**Nature** : #Invocation 
-**Coût en Mana** : 2
-**Temps d'incantation** : 1 action
-**Composante** : un tas de cailloux
-**Challenge** : 2
-**Degré d'amplification** : 2
-
+---
+Nature:
+  - Invocation
+Coût en mana: 2
+Temps d'incantation: 1 action
+Challenge: 2
+Degré d'amplification: 2
+Composante:
+  - Tas de cailloux
+---
 **Portée** : Touché
 **Durée** :  ?
 

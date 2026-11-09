@@ -1,9 +1,11 @@
-**Nature** : #Utilitaire 
-**Coût en Mana** : 2
-**Temps d'incantation** : 1 action
-**Challenge** : 2
-**Degré d'amplification** : 1
-
+---
+Nature:
+  - Utilitaire
+Coût en mana: 2
+Temps d'incantation: 1 action
+Challenge: 2
+Degré d'amplification: 1
+---
 **Portée** : Toucher
 **Cibles** : 1
 **Durée** : Concentration, jusqu'à 1 minute

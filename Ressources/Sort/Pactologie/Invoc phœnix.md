@@ -1,10 +1,12 @@
-**Nature** : #Invocation #Offensif 
-**Coût en Mana** : 
-**Temps d'incantation** :
-**Composante** :
-**Challenge** : 
-**Degré d'amplification** : 
-
+---
+Nature:
+  - Invocation
+  - Offensif
+Coût en mana:
+Temps d'incantation:
+Challenge:
+Degré d'amplification:
+---
 **Portée** : 
 **Zone** : 
 **Cibles** : 

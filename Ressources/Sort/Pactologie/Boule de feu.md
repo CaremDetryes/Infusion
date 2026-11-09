@@ -1,12 +1,15 @@
-**Nature** : #Offensif 
-**Coût en Mana** : 6
-**Temps d'incantation** : 1 action
-**Composante** : Une poigné de souffre
-**Challenge** : 3
-**Degré d'amplification** : 3
-
+---
+Nature:
+  - Offensif
+Coût en mana: 6
+Temps d'incantation: 1 action
+Challenge: 3
+Degré d'amplification: 3
+Composante:
+  - Poigné de souffre
+---
 **Portée** : 36 mètres
-**Zone** : sphère de 6 mètres de rayon. Jet de sauvegarde de Dextérité.
+**Zone** : sphère de 6 mètres de rayon. Jet de sauvegarde de Vivacité.
 **Cibles** : 1
 **Durée** : Instantanée
 
